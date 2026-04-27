@@ -18,10 +18,11 @@ I am a Blockchain Developer focused on architecting secure, gas-efficient decent
 - **The Tech:** Solidity, Chainlink, Remix.
 - **The Solve:** Created a flexible vesting protocol originally designed for a Chainlink hackathon, focusing on automated fund releases and secure state management.
 
-### [GM-Investigation](https://github.com/Taniya027/gm-investigation)
-*Web3 Security Research*
-- **The Goal:** Security mapping and logic investigation of Ondo GM contracts.
-- **Methods:** Utilizing **Mainnet Forking** and logic mapping to identify protocol vulnerabilities and state-flow efficiencies.
+#### [Autovault Sentinel](https://github.com/Taniya027/Autovault-Sentinel)
+*Smart Contract Observability & Analytics*
+- **The Core:** An ETH vault deployed on **Stagenet** to showcase real-time behavior verification and protocol analytics.
+- **The Value:** Focuses on contract stability and insight, demonstrating how to use native dashboards to monitor state changes and transaction flow during the development lifecycle.
+- **The Tech:** Solidity, Stagenet Analytics, real-time monitoring tools.
 
 ---
 
